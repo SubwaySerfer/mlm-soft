@@ -9,7 +9,8 @@ const routes: Array<RouteRecordRaw> = [
     path: '/',
     name: 'Home',
     component: Catalog,
-    redirect: '/catalog'
+    redirect: '/catalog',
+    children: []
   },
   {
     path: '/catalog',
