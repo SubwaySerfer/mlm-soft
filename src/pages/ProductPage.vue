@@ -1,0 +1,8 @@
+<template>
+  <p>Product</p>
+</template>
+
+<script setup lang="ts">
+</script>
+
+<style scoped></style>
